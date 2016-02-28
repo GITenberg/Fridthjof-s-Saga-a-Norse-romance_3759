@@ -1,0 +1,49 @@
+_repo: Fridthjof-s-Saga-a-Norse-romance_3759
+contributor:
+  translators:
+  - agent_name: Holcomb, Martha A. Lyon
+    gutenberg_agent_id: '1291'
+    url: http://www.gutenberg.org/2009/agents/1291
+  - agent_name: Holcomb, Thomas A. E. (Thomas Addis Emmett)
+    birthdate: 1831
+    deathdate: 1897
+    gutenberg_agent_id: '1290'
+    url: http://www.gutenberg.org/2009/agents/1290
+creator:
+  author:
+    agent_name: Tegnér, Esaias
+    alias: Tegner, Esaias
+    birthdate: 1782
+    deathdate: 1846
+    gutenberg_agent_id: '1289'
+    url: http://www.gutenberg.org/2009/agents/1289
+    wikipedia: http://en.wikipedia.org/wiki/Esaias_Tegnér
+description: "Friðþjófs saga hins frœkna (Frithiof's Saga) is a legendary saga from\
+  \ Iceland which in its present form is from ca 1300. It is a continuation from The\
+  \ Saga of Thorstein Víkingsson (Þorsteins saga Víkingssonar). It takes place principally\
+  \ in Norway during the 8th century.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3759'
+  wikidata: Q397698
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish poetry -- Translations into English'
+- !lcsh 'Legends -- Iceland'
+- !lcc 'PT'
+title: Fridthjof's Saga; a Norse romance
+url: http://www.gutenberg.org/ebooks/3759
+wikipedia:
+- https://nn.wikipedia.org/wiki/Soga_om_Fridtjov_den_fr%C3%B8kne
+- https://de.wikipedia.org/wiki/Frithjofssage
+- https://es.wikipedia.org/wiki/Fri%C3%B0%C3%BEj%C3%B3fs_saga_hins_fr%C5%93kna
+- https://da.wikipedia.org/wiki/Fridtjof_den_Fr%C3%B8knes_saga
+- https://en.wikipedia.org/wiki/Fri%C3%B0%C3%BEj%C3%B3fs_saga_hins_fr%C5%93kna
+- https://it.wikipedia.org/wiki/Fri%C3%B0%C3%BEj%C3%B3fs_saga_ins_fr%C3%A6kna
+- https://no.wikipedia.org/wiki/Sagaen_om_Fridtjov_den_fr%C3%B8kne
+- https://is.wikipedia.org/wiki/Fri%C3%B0%C3%BEj%C3%B3fs_saga_hins_fr%C5%93kna
+- https://sv.wikipedia.org/wiki/Fritjof_den_dj%C3%A4rves_saga
