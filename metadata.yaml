@@ -1,5 +1,5 @@
 _repo: Fridthjof-s-Saga-a-Norse-romance_3759
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Holcomb, Martha A. Lyon
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1897
     gutenberg_agent_id: '1290'
     url: http://www.gutenberg.org/2009/agents/1290
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tegnér, Esaias
@@ -23,6 +26,8 @@ description: "Friðþjófs saga hins frœkna (Frithiof's Saga) is a legendary sa
   \ Iceland which in its present form is from ca 1300. It is a continuation from The\
   \ Saga of Thorstein Víkingsson (Þorsteins saga Víkingssonar). It takes place principally\
   \ in Norway during the 8th century.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3759#Fridthjof-s-Saga-a-Norse-romance
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
 identifiers:
