@@ -1,5 +1,5 @@
 _repo: Fridthjof-s-Saga-a-Norse-romance_3759
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translators:
   - agent_name: Holcomb, Martha A. Lyon
@@ -41,6 +41,7 @@ subjects:
 - !lcsh 'Swedish poetry -- Translations into English'
 - !lcsh 'Legends -- Iceland'
 - !lcc 'PT'
+- GITenberg
 title: Fridthjof's Saga; a Norse romance
 url: http://www.gutenberg.org/ebooks/3759
 wikipedia:
